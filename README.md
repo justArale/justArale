@@ -2,7 +2,7 @@
 
 I am a junior full-stack developer with a big heart for building amazing things and I love to dive deep into the code.
 
-##  🔨 I'm building with...
+##  🔨 Tools I'm working with...
 
 ![](https://img.shields.io/badge/React.js-informational?style=flat&logo=React&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=ColorName&color=black)
@@ -10,9 +10,6 @@ I am a junior full-stack developer with a big heart for building amazing things 
 ![](https://img.shields.io/badge/Express-informational?style=flat&logo=Express&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=ColorName&color=black)
-
-##  🔧 ...and can work with...
-
 ![](https://img.shields.io/badge/Tailwindcss-informational?style=flat&logo=Tailwindcss&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&logoColor=ColorName&color=black)
 
