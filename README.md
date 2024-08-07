@@ -18,19 +18,14 @@ I am a software engineer from Berlin with a passion for cycling and building inc
 
 ##  ☕️ Find me elsewhere
 
-<a href="https://www.codewars.com/users/justArale" target="_blanK"><img src="https://www.codewars.com/users/justArale/badges/micro" alt="Codewarlogo"/></a>
-<a href="https://www.linkedin.com/in/s-kuechler-fullstack-dev/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=ColorName&color=black" alt="LinkedInlogo" /></a>
-<a href="https://www.duolingo.com/profile/JustArale" target="_blank">
-<img src="https://img.shields.io/badge/Duolingo-informational?style=flat&logo=Duolingo&logoColor=ColorName&color=black" alt="Duolingologo">
-</a>
-<a href="https://www.strava.com/athletes/69940846" target="_blank">
-<img src="https://img.shields.io/badge/Strava-informational?style=flat&logo=Strava&logoColor=ColorName&color=black" alt="Stravalogo">
-</a>
+[![Codewars](https://www.codewars.com/users/justArale/badges/micro)](https://www.codewars.com/users/justArale)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=ColorName&color=black)](https://www.linkedin.com/in/s-kuechler-fullstack-dev/)
+[![Duolingo](https://img.shields.io/badge/Duolingo-informational?style=flat&logo=Duolingo&logoColor=ColorName&color=black)](https://www.duolingo.com/profile/JustArale)
+[![Strava](https://img.shields.io/badge/Strava-informational?style=flat&logo=Strava&logoColor=ColorName&color=black)](https://www.strava.com/athletes/69940846)
 
 ## 🚀 Have a look on my Portfolio
 
-<a href="https://arale-portfolio.netlify.app" target="_blank"><img src="https://arale-portfolio.netlify.app/icons/icon.svg" alt="Memoji von Arale" /></a>
+[![Portfolio](https://arale-portfolio.netlify.app/icons/icon.svg)](https://arale-portfolio.netlify.app)
 
 <!--
 **justArale/justArale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
