@@ -4,14 +4,16 @@ I am a software engineer from Berlin with a passion for cycling and building inc
 
 ##  🔨 Tools I'm working with...
 
+![](https://img.shields.io/badge/Vite-informational?style=flat&logo=Vite&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/React.js-informational?style=flat&logo=React&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Express-informational?style=flat&logo=Express&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&logoColor=ColorName&color=black)
-![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=ColorName&color=black)
+
 ![](https://img.shields.io/badge/TailwindCSS-informational?style=flat&logo=Tailwindcss&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Swift-informational?style=flat&logo=Swift&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Wordpress-informational?style=flat&logo=Wordpress&logoColor=ColorName&color=black)
