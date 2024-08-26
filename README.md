@@ -13,6 +13,7 @@ I am a software engineer from Berlin with a passion for cycling and building inc
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/npm-informational?style=flat&logo=npm&logoColor=ColorName&color=black)
 
 ![](https://img.shields.io/badge/TailwindCSS-informational?style=flat&logo=Tailwindcss&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Swift-informational?style=flat&logo=Swift&logoColor=ColorName&color=black)
@@ -24,6 +25,7 @@ I am a software engineer from Berlin with a passion for cycling and building inc
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=ColorName&color=black)](https://www.linkedin.com/in/s-kuechler-fullstack-dev/)
 [![Duolingo](https://img.shields.io/badge/Duolingo-informational?style=flat&logo=Duolingo&logoColor=ColorName&color=black)](https://www.duolingo.com/profile/JustArale)
 [![Strava](https://img.shields.io/badge/Strava-informational?style=flat&logo=Strava&logoColor=ColorName&color=black)](https://www.strava.com/athletes/69940846)
+[![npm](https://img.shields.io/badge/npm-informational?style=flat&logo=npm&logoColor=ColorName&color=black)](https://www.npmjs.com/~just1arale)
 
 ## 🚀 Have a look on my Portfolio
 
