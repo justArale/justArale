@@ -21,6 +21,10 @@ I am a software engineer from Berlin with a passion for cycling and building inc
 ![](https://img.shields.io/badge/Swift-informational?style=flat&logo=Swift&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Wordpress-informational?style=flat&logo=Wordpress&logoColor=ColorName&color=black)
 
+## 📈 GitHub Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=justArale&theme=react) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=justArale&theme=react)
+
 ##  ☕️ Find me elsewhere
 
 [![Codewars](https://www.codewars.com/users/justArale/badges/micro)](https://www.codewars.com/users/justArale)
