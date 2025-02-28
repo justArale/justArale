@@ -15,6 +15,10 @@ I am a software engineer from Berlin with a passion for cycling and building inc
 ![](https://img.shields.io/badge/Axios-informational?style=flat&logo=Axios&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/npm-informational?style=flat&logo=npm&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/Neon-informational?style=flat&logo=Neon&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/Drizzle-informational?style=flat&logo=Drizzle&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/Hono-informational?style=flat&logo=Hono&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/Cloudinary-informational?style=flat&logo=Cloudinary&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/python-informational?style=flat&logo=python&logoColor=ColorName&color=black)
 
 ![](https://img.shields.io/badge/TailwindCSS-informational?style=flat&logo=Tailwindcss&logoColor=ColorName&color=black)
