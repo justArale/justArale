@@ -18,6 +18,7 @@ I am a software engineer from Berlin with a passion for cycling and building inc
 ![Express.js](https://img.shields.io/badge/Express.js-informational?style=flat&logo=Express&logoColor=white&color=black)
 ![Hono](https://img.shields.io/badge/Hono-informational?style=flat&logo=Hono&logoColor=white&color=black)
 ![Axios](https://img.shields.io/badge/Axios-informational?style=flat&logo=Axios&logoColor=white&color=black)
+![Postman](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=white&color=black)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=black)
 ![Mongoose](https://img.shields.io/badge/Mongoose-informational?style=flat&logo=Mongoose&logoColor=white&color=black)
@@ -35,6 +36,8 @@ I am a software engineer from Berlin with a passion for cycling and building inc
 
 ![Jira](https://img.shields.io/badge/Jira-informational?style=flat&logo=Jira&logoColor=white&color=black)
 ![Confluence](https://img.shields.io/badge/Confluence-informational?style=flat&logo=Confluence&logoColor=white&color=black)
+![Netlify](https://img.shields.io/badge/Netlify-informational?style=flat&logo=Netlify&logoColor=white&color=black)
+![Vercel](https://img.shields.io/badge/Vercel-informational?style=flat&logo=Vercel&logoColor=white&color=black)
 
 ##  ☕️ Find me elsewhere
 
@@ -43,8 +46,9 @@ I am a software engineer from Berlin with a passion for cycling and building inc
 [![Duolingo](https://img.shields.io/badge/Duolingo-informational?style=flat&logo=Duolingo&logoColor=white&color=black)](https://www.duolingo.com/profile/JustArale)
 [![Strava](https://img.shields.io/badge/Strava-informational?style=flat&logo=Strava&logoColor=white&color=black)](https://www.strava.com/athletes/69940846)
 [![npm](https://img.shields.io/badge/npm-informational?style=flat&logo=npm&logoColor=white&color=black)](https://www.npmjs.com/~just1arale)
+[![Mastodon](https://img.shields.io/badge/Mastodon-informational?style=flat&logo=Mastodon&logoColor=white&color=black)](https://mastodon.social/@just1arale)
 
-## 🚀 Have a look on my Portfolio
+## 🔭 Have a look on my Portfolio
 
 [![Portfolio](https://arale-portfolio.netlify.app/icons/icon.svg)](https://arale-portfolio.netlify.app)
 
@@ -61,4 +65,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=justArale&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=justArale&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 -->
