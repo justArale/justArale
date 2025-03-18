@@ -50,7 +50,7 @@ I am a software engineer from Berlin with a passion for cycling and building inc
 
 ## 🔭 Have a look on my Portfolio
 
-[![Portfolio](https://arale-portfolio.netlify.app/icons/icon.svg)](https://arale-portfolio.netlify.app)
+[![Portfolio](https://arale-portfolio.netlify.app/icons/icon.svg)](https://portfolio.arale.space)
 
 <!--
 **justArale/justArale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
