@@ -38,6 +38,8 @@ I am a software engineer from Berlin with a passion for cycling and building inc
 ![Confluence](https://img.shields.io/badge/Confluence-informational?style=flat&logo=Confluence&logoColor=white&color=black)
 ![Netlify](https://img.shields.io/badge/Netlify-informational?style=flat&logo=Netlify&logoColor=white&color=black)
 ![Vercel](https://img.shields.io/badge/Vercel-informational?style=flat&logo=Vercel&logoColor=white&color=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-informational?style=flat&logo=Cloudflare&logoColor=white&color=black)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-informational?style=flat&logo=Cloudflare&logoColor=white&color=black)
 
 ##  ☕️ Find me elsewhere
 
