@@ -2,7 +2,7 @@
 
 I am a software engineer from Berlin with a passion for cycling and building incredible things, whether it's from crafting to coding.
 
-🔥 I'm currently working on [SewDB](https://github.com/justArale/SewDB)
+🔥 I'm currently working on an AI agent as part of my upcoming Home Assistant project on a Raspberry Pi.
 
 ## 🛠 Tools I'm working with...
 
