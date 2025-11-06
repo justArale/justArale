@@ -48,7 +48,7 @@ I am a software engineer from Berlin with a passion for cycling and building inc
 [![Duolingo](https://img.shields.io/badge/Duolingo-informational?style=flat&logo=Duolingo&logoColor=white&color=black)](https://www.duolingo.com/profile/JustArale)
 [![Strava](https://img.shields.io/badge/Strava-informational?style=flat&logo=Strava&logoColor=white&color=black)](https://www.strava.com/athletes/69940846)
 [![npm](https://img.shields.io/badge/npm-informational?style=flat&logo=npm&logoColor=white&color=black)](https://www.npmjs.com/~just1arale)
-[![Mastodon](https://img.shields.io/badge/Mastodon-informational?style=flat&logo=Mastodon&logoColor=white&color=black)](https://mastodon.social/@just1arale)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD55A?style=flat&logo=huggingface&logoColor=white&color=black)](https://huggingface.co/JustArale)
 
 ## 🔭 Have a look on my Portfolio
 
